@@ -2528,3 +2528,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.aayushath
 2023-12-04 16:04:00,198 [Worker-14: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-12-04 16:04:00,200 [Worker-14: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2023-12-13 22:17:24,442 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-17 21:55:14,461 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-17 22:21:14,085 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
