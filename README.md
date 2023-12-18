@@ -1,1 +1,1 @@
-Hi! day1-java and day2-java folder contains all java related assignments. Selenium folder contains TestNG assignment and Karate folder contains Karate assignment
+Hi! day1-java and day2-java folder contains all java related assignments. Selenium folder contains TestNG assignment, karateTraining folder contains Karate assignment, automationTraining folder contains Cucumber assignment and cucumber for appian folder contains Cucumber for appian assignment.
